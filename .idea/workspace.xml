@@ -5,21 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3995ef55-9c2f-4192-a5f2-34ef16f79168" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTypes/Dict/Copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Dict/CreateAndDelete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Dict/CreatingAndAccessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Dict/Dictionary_Notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/Dict/Get_item.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/Numbers_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/abs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/ceil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/fabs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/floor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/modf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/pow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/round.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Numbers/sqrt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/Convert_Tuple_To_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/Convert_Tuple_To_List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/CreatingAndAccessingTuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/CreatingAndAccessingTuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/Delete_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/Delete_Tuple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/Min_Max.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/Min_Max.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/SpecialOperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/SpecialOperators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/Tuple_notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/Tuple_notes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/UpdatingTuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/UpdatingTuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Dict/FromKeys.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Dict/FromKeys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Dict/SetDefault.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Dict/SetDefault.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,25 +41,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="46" />
+          <entry key="py" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="46" />
+          <entry key="Python" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="161" />
-          <entry key="py" value="13929" />
+          <entry key="py" value="14767" />
           <entry key="txt" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="59" />
-          <entry key="Python" value="14090" />
+          <entry key="Python" value="14928" />
         </counts>
       </usages-collector>
     </session>
@@ -66,46 +67,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Dictionary_Notes.py">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/exp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="320" column="59" selection-start-line="320" selection-start-column="59" selection-end-line="320" selection-end-column="59" />
+            <state relative-caret-position="272">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataTypes/Dict/CreatingAndAccessing.py">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/fabs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataTypes/Dict/CreateAndDelete.py">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/floor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+            <state relative-caret-position="187">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Copy.py">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/log.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/max.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/modf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/pow.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/round.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/sqrt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Get_item.py">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/Numbers_methods.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <caret line="448" column="64" selection-start-line="448" selection-start-column="64" selection-end-line="448" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -157,6 +203,22 @@
         <option value="$PROJECT_DIR$/DataTypes/Dict/CreateAndDelete.py" />
         <option value="$PROJECT_DIR$/DataTypes/Dict/Copy.py" />
         <option value="$PROJECT_DIR$/DataTypes/Dict/Get_item.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dict/Keys_Values.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dict/FromKeys.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dict/SetDefault.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/Numbers.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/abs.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/ceil.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/exp.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/fabs.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/floor.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/log.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/max.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/modf.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/pow.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/round.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/sqrt.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Numbers/Numbers_methods.py" />
       </list>
     </option>
   </component>
@@ -208,7 +270,7 @@
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="DataTypes" type="462c0819:PsiDirectoryNode" />
-              <item name="Dict" type="462c0819:PsiDirectoryNode" />
+              <item name="Numbers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -231,8 +293,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Get_item">
-    <configuration name="Copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.sqrt">
+    <configuration name="max" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -240,11 +302,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Numbers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Dict/Copy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Numbers/max.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +315,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CreateAndDelete" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="modf" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,11 +323,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Numbers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Dict/CreateAndDelete.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Numbers/modf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +336,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CreatingAndAccessing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pow" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,11 +344,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Numbers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Dict/CreatingAndAccessing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Numbers/pow.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,7 +357,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Get_item" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="round" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,11 +365,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Numbers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Dict/Get_item.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Numbers/round.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,7 +378,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SpecialOperators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sqrt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,11 +386,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Tuples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Numbers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Tuples/SpecialOperators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Numbers/sqrt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,19 +400,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.SpecialOperators" />
-      <item itemvalue="Python.CreatingAndAccessing" />
-      <item itemvalue="Python.CreateAndDelete" />
-      <item itemvalue="Python.Copy" />
-      <item itemvalue="Python.Get_item" />
+      <item itemvalue="Python.max" />
+      <item itemvalue="Python.modf" />
+      <item itemvalue="Python.pow" />
+      <item itemvalue="Python.round" />
+      <item itemvalue="Python.sqrt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Get_item" />
-        <item itemvalue="Python.Copy" />
-        <item itemvalue="Python.CreateAndDelete" />
-        <item itemvalue="Python.CreatingAndAccessing" />
-        <item itemvalue="Python.SpecialOperators" />
+        <item itemvalue="Python.sqrt" />
+        <item itemvalue="Python.round" />
+        <item itemvalue="Python.pow" />
+        <item itemvalue="Python.modf" />
+        <item itemvalue="Python.max" />
       </list>
     </recent_temporary>
   </component>
@@ -652,17 +714,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Keys_Values.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Get_item.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dict/FromKeys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dict/SetDefault.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/abs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/ceil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/exp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/fabs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/floor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/max.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/modf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/pow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/round.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/sqrt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/Numbers_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="448" column="64" selection-start-line="448" selection-start-column="64" selection-end-line="448" selection-end-column="64" />
         </state>
       </provider>
     </entry>
