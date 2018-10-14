@@ -19,3 +19,6 @@ print(numbers)
 numbers[3] = 53
 print(numbers)
 
+'''
+create and access
+'''

@@ -23,5 +23,5 @@ print(type(aCool_List), len(aCool_List), id(aCool_List))
 
 '''
 Extend the list by appending all the items in the given list;
-equivalent to a[len(a):] = L.
+equivalent to a[len(a):] = L
 '''

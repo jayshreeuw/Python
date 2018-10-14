@@ -13,3 +13,7 @@ print(aCool_List.count(22)) #prints 0 because 22 is not present in aCool_List
 print(aCool_List.count('spiderman'))
 
 print(oneMoreList.count(34))
+
+'''
+counts the number of occurences
+'''

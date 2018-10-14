@@ -22,5 +22,5 @@ list.insert(i,x):
 Insert an item at a given position.
 First argument is the index of the element before which to insert,
 so a.insert(0,x) inserts at the front of list and a.insert(len(a),x)
-is equivalent to a.append(x).
+is equivalent to a.append(x)
 '''

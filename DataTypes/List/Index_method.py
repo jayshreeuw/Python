@@ -13,6 +13,6 @@ print(aCool_List.index('spiderman'))
 '''
 6. List.index(x):
 Return the index in the list of the first item whose value is x.
-It is an error if there is no such item.
+It is an error if there is no such item
 '''
 

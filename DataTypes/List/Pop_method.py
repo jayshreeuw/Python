@@ -16,6 +16,6 @@ print(aCool_List)
 
 '''
 list.pop([i]):list.pop()
-Remove the item at the given position in the list and return it.
+Remove the item at the given position in the list and return it;
 If no index is specified, a.pop() removes and return the last item in the list
 '''

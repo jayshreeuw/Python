@@ -19,3 +19,7 @@ print(min(onemorelist))
 
 newList = list(aCoolTuple)
 print(newList)
+
+'''
+finds the min and max values from the list
+'''

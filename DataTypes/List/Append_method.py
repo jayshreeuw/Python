@@ -18,3 +18,7 @@ print(a_list, len(a_list))
 a_list.append("Guido")
 print(a_list)
 print(list(enumerate(a_list)))
+
+'''
+adds the element in the list
+'''
