@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3995ef55-9c2f-4192-a5f2-34ef16f79168" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTypes/List/Remove_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypes/List/Reverse_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dict/Copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dict/CreateAndDelete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dict/CreatingAndAccessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dict/Dictionary_Notes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypes/Dict/Get_item.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/Convert_Tuple_To_List.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/Convert_Tuple_To_List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/CreatingAndAccessingTuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/CreatingAndAccessingTuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/Delete_Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/Delete_Tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/Min_Max.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/Min_Max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/SpecialOperators.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/SpecialOperators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/Tuple_notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/Tuple_notes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataTypes/Tuples/UpdatingTuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypes/Tuples/UpdatingTuple.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,25 +40,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="21" />
+          <entry key="py" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="21" />
+          <entry key="Python" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="161" />
-          <entry key="py" value="9496" />
-          <entry key="txt" value="45" />
+          <entry key="py" value="13929" />
+          <entry key="txt" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="45" />
-          <entry key="Python" value="9657" />
+          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="Python" value="14090" />
         </counts>
       </usages-collector>
     </session>
@@ -54,28 +66,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataTypes/List/Pop_method.py">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Dictionary_Notes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+            <state relative-caret-position="294">
+              <caret line="320" column="59" selection-start-line="320" selection-start-column="59" selection-end-line="320" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataTypes/List/Remove_method.py">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Dict/CreatingAndAccessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="294">
+              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Dict/CreateAndDelete.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Copy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataTypes/List/Reverse_method.py">
+        <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Get_item.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+            <state relative-caret-position="294">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -102,17 +132,31 @@
         <option value="$PROJECT_DIR$/DataTypes/Strings/StringSpecialOperators_Notes.py" />
         <option value="$PROJECT_DIR$/DataTypes/Strings/Capitalize.py" />
         <option value="$PROJECT_DIR$/DataTypes/Strings/Strings_methods.py" />
-        <option value="$PROJECT_DIR$/DataTypes/List/CreatingAndAccessingList.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/Append_method.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/Count_method.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/CreatingAndAccessingList.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/Del_KeyWord.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/Extend_method.py" />
-        <option value="$PROJECT_DIR$/DataTypes/List/Min_Max_method.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/Index_method.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/Insert_method.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/Min_Max_method.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/Pop_method.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/Remove_method.py" />
         <option value="$PROJECT_DIR$/DataTypes/List/Reverse_method.py" />
+        <option value="$PROJECT_DIR$/DataTypes/List/List_notes.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Tuples/Tuple_notes.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Tuples/CreatingAndAccessingTuple.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Tuples/Convert_Tuple_To_List.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Tuples/Delete_Tuple.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Tuples/Min_Max.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Tuples/UpdatingTuple.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Tuples/SpecialOperators.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dict/Dictionary_Notes.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dict/CreateAndUpdate.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dict/CreatingAndAccessing.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dict/CreateAndDelete.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dict/Copy.py" />
+        <option value="$PROJECT_DIR$/DataTypes/Dict/Get_item.py" />
       </list>
     </option>
   </component>
@@ -164,19 +208,7 @@
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="DataTypes" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="DataTypes" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="DataTypes" type="462c0819:PsiDirectoryNode" />
-              <item name="Variables" type="462c0819:PsiDirectoryNode" />
+              <item name="Dict" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,7 +217,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -199,20 +231,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Reverse_method">
-    <configuration name="Index_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Get_item">
+    <configuration name="Copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Jaya\AppData\Local\Programs\Python\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Dict" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/Index_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Dict/Copy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,19 +253,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Insert_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CreateAndDelete" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Jaya\AppData\Local\Programs\Python\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Dict" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/Insert_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Dict/CreateAndDelete.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,19 +274,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Pop_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CreatingAndAccessing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Jaya\AppData\Local\Programs\Python\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Dict" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/Pop_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Dict/CreatingAndAccessing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,19 +295,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Remove_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Get_item" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Jaya\AppData\Local\Programs\Python\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Dict" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/Remove_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Dict/Get_item.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,19 +316,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Reverse_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SpecialOperators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\Jaya\AppData\Local\Programs\Python\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/List" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataTypes/Tuples" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/List/Reverse_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataTypes/Tuples/SpecialOperators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,19 +338,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Index_method" />
-      <item itemvalue="Python.Insert_method" />
-      <item itemvalue="Python.Pop_method" />
-      <item itemvalue="Python.Remove_method" />
-      <item itemvalue="Python.Reverse_method" />
+      <item itemvalue="Python.SpecialOperators" />
+      <item itemvalue="Python.CreatingAndAccessing" />
+      <item itemvalue="Python.CreateAndDelete" />
+      <item itemvalue="Python.Copy" />
+      <item itemvalue="Python.Get_item" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Reverse_method" />
-        <item itemvalue="Python.Remove_method" />
-        <item itemvalue="Python.Pop_method" />
-        <item itemvalue="Python.Insert_method" />
-        <item itemvalue="Python.Index_method" />
+        <item itemvalue="Python.Get_item" />
+        <item itemvalue="Python.Copy" />
+        <item itemvalue="Python.CreateAndDelete" />
+        <item itemvalue="Python.CreatingAndAccessing" />
+        <item itemvalue="Python.SpecialOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539481531612</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="remove method">
+      <created>1539482618894</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1539482618894</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView">
@@ -411,7 +450,8 @@
     <MESSAGE value="index method" />
     <MESSAGE value="insert method" />
     <MESSAGE value="pop method" />
-    <option name="LAST_COMMIT_MESSAGE" value="pop method" />
+    <MESSAGE value="remove method" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove method" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DataTypes/Strings.py" />
@@ -451,80 +491,178 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/List/CreatingAndAccessingList.py">
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/Append_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="250">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/List/Append_method.py">
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/Count_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="250">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/CreatingAndAccessingList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/List/Del_KeyWord.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="238">
+          <caret line="14" column="49" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/List/Extend_method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/List/Index_method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/List/Min_Max_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/List/Insert_method.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
-          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/List/Count_method.py">
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/Min_Max_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="36" />
+        <state relative-caret-position="250">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/List/Pop_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+        <state relative-caret-position="215">
+          <caret line="18" column="64" selection-start-line="18" selection-start-column="64" selection-end-line="18" selection-end-column="64" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/List/Remove_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="250">
+          <caret line="24" column="52" lean-forward="true" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/List/Reverse_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="16" column="63" selection-start-line="16" selection-start-column="63" selection-end-line="16" selection-end-column="63" />
+        <state relative-caret-position="250">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/List/List_notes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="320" column="59" selection-start-line="320" selection-start-column="59" selection-end-line="320" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Tuples/Tuple_notes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Tuples/CreatingAndAccessingTuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Tuples/Convert_Tuple_To_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Tuples/Delete_Tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Tuples/Min_Max.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="104" selection-start-line="11" selection-start-column="104" selection-end-line="11" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Tuples/UpdatingTuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Tuples/SpecialOperators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="68" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dict/CreateAndUpdate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Dictionary_Notes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="320" column="59" selection-start-line="320" selection-start-column="59" selection-end-line="320" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dict/CreatingAndAccessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dict/CreateAndDelete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Get_item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
         </state>
       </provider>
     </entry>
