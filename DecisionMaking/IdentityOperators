@@ -2,8 +2,8 @@
 #!/usr/bin/python
 
 '''Identity operators in Python:
-    1. IN
-    2. NOT IN
+    1. IS
+    2. IS NOT
 '''
 
 score = 10
@@ -12,7 +12,7 @@ player = 10
 print(id(score))
 print(id(player))
 
-if(score == player):
+if(score is player):
     print("We are same")
 else:
     print("We are not same")
