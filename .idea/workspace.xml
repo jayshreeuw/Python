@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3995ef55-9c2f-4192-a5f2-34ef16f79168" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Functions/CreatingFunctions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/DefaultArguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/Functions_notes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/KeywordArguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/LocalvsGlobal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/PassByReferenceValue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/PassbyreferenceVSvalue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/RequiredArguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/RequiredArguments_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/VariableLength.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fil&amp;Dir/File1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fil&amp;Dir/FileOperations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,26 +33,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="IdentityOperators" value="1" />
-          <entry key="py" value="99" />
+          <entry key="py" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="99" />
+          <entry key="Python" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="161" />
-          <entry key="py" value="16713" />
+          <entry key="py" value="16715" />
           <entry key="txt" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="59" />
-          <entry key="Python" value="16874" />
+          <entry key="Python" value="16876" />
         </counts>
       </usages-collector>
     </session>
@@ -69,91 +60,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/Functions_notes.py">
+        <entry file="file://$PROJECT_DIR$/Fil&amp;Dir/FileOperations.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="370" column="73" selection-start-line="370" selection-start-column="73" selection-end-line="370" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/DefaultArguments.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/KeywordArguments.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/Lambda.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/LocalvsGlobal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/PassByReferenceValue.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/PassbyreferenceVSvalue.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="63" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/RequiredArguments.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/RequiredArguments_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+              <caret line="1359" column="12" selection-start-line="1359" selection-start-column="12" selection-end-line="1359" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions/VariableLength.py">
+        <entry file="file://$PROJECT_DIR$/Fil&amp;Dir/File1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+            <state relative-caret-position="294">
+              <caret line="2124" column="67" selection-start-line="2124" selection-start-column="67" selection-end-line="2124" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -173,8 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DataTypes/Dict/Get_item.py" />
-        <option value="$PROJECT_DIR$/DataTypes/Dict/Keys_Values.py" />
         <option value="$PROJECT_DIR$/DataTypes/Dict/FromKeys.py" />
         <option value="$PROJECT_DIR$/DataTypes/Dict/SetDefault.py" />
         <option value="$PROJECT_DIR$/DataTypes/Numbers/Numbers.py" />
@@ -224,6 +141,8 @@
         <option value="$PROJECT_DIR$/Functions/RequiredArguments.py" />
         <option value="$PROJECT_DIR$/Functions/RequiredArguments_2.py" />
         <option value="$PROJECT_DIR$/Functions/VariableLength.py" />
+        <option value="$PROJECT_DIR$/Fil&amp;Dir/FileOperations.py" />
+        <option value="$PROJECT_DIR$/Fil&amp;Dir/File1.py" />
       </list>
     </option>
   </component>
@@ -268,7 +187,7 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Functions" type="462c0819:PsiDirectoryNode" />
+              <item name="Fil&amp;Dir" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -489,13 +408,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3268206" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3268206" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3268206" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3268206" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3268206" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.57015985" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -515,20 +434,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="remove method" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataTypes/Dict/Copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataTypes/Numbers/abs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -859,6 +764,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fil&amp;Dir/FileOperations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="1359" column="12" selection-start-line="1359" selection-start-column="12" selection-end-line="1359" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fil&amp;Dir/File1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="2124" column="67" selection-start-line="2124" selection-start-column="67" selection-end-line="2124" selection-end-column="67" />
         </state>
       </provider>
     </entry>
